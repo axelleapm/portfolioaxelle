@@ -1,0 +1,17 @@
+:root {
+  --bulma-scheme-main: rgb(0, 0, 0);
+}
+
+.is-min-height {
+  min-height: 610px;
+}
+
+.has-background-image {
+  background-image: url("./media/images/hero.jpeg");
+  background-size: cover;
+  background-position: center;
+}
+
+html {
+  scroll-behavior: smooth;
+}
